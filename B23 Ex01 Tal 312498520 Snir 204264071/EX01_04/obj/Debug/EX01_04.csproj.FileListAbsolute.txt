@@ -1,0 +1,7 @@
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\bin\Debug\EX01_04.exe.config
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\bin\Debug\EX01_04.exe
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\bin\Debug\EX01_04.pdb
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\obj\Debug\EX01_04.csproj.AssemblyReference.cache
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\obj\Debug\EX01_04.csproj.CoreCompileInputs.cache
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\obj\Debug\EX01_04.exe
+C:\Users\snir1\source\repos\B23 Ex01 TalKoren 312498520 SnirBabi 204264071\B23 Ex01 Tal 312498520 Snir 204264071\EX01_04\obj\Debug\EX01_04.pdb
