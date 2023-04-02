@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{6175882B-CCCF-4FD3-928D-C078D4931A17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EX01_05/Program.cs">
+    <Files>
+      <File FileName="EX01_05/Program.cs" Line="28" Column="27" />
+      <File FileName="EX01_01/program.cs" Line="14" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="B23 Ex01 Tal 312498520 Snir 204264071" expanded="True">
+            <Node name="EX01_01" expanded="True" />
+            <Node name="EX01_02" expanded="True" />
+            <Node name="EX01_03" expanded="True" />
+            <Node name="EX01_05" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EX01__04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EX01__01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EX01__02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/talkoren/src/github.com/tal_koren/css-ex1/B23 Ex01 TalKoren 312498520 SnirBabi 204264071/EX01_01/Program.cs" relfile="EX01_01/Program.cs" line="19" column="1" />
+      <Breakpoint file="/Users/talkoren/src/github.com/tal_koren/css-ex1/B23 Ex01 TalKoren 312498520 SnirBabi 204264071/EX01_05/Program.cs" relfile="EX01_05/Program.cs" line="12" column="1" />
+      <Breakpoint enabled="false" file="/Users/talkoren/src/github.com/tal_koren/css-ex1/B23 Ex01 TalKoren 312498520 SnirBabi 204264071/EX01_01/Program.cs" relfile="EX01_01/Program.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EX01__03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EX01__05 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
